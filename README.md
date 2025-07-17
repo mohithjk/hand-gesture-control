@@ -21,7 +21,7 @@ A Python project that uses computer vision (OpenCV and MediaPipe) to detect hand
 - MediaPipe
 - PyAutoGUI
 - NumPy
-- cvzone (optional)
+
 
 
 
